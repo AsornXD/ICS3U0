@@ -1,3 +1,5 @@
+//Made by Askari Abbas
+// ICS3U0
 public class Lvl3Q8 {
     public static void main(String[] args) {
         int num1 = 0;

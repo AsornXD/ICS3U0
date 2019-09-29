@@ -1,3 +1,5 @@
+//Made by Askari Abbas
+// ICS3U0
 import java.util.*;
 public class Lvl3Q12 {
     public static void main(String[] args) {

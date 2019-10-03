@@ -1,3 +1,5 @@
+//Made by Askari Abbas
+// ICS3U0
 import java.util.ArrayList;
 public class Challenge7 {
     public static void main(String[] args) {

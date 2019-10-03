@@ -6,7 +6,6 @@ public class Challenge3 {
         String[] names;
         int[] numbers;
         Scanner input = new Scanner(System.in);
-        System.out.println(" ");
         System.out.println("This program will output the person with the highest IQ.");
         System.out.println("Enter the names of 6 of your friends:");
         names = new String[]{input.nextLine(), input.nextLine(), input.nextLine(), input.nextLine(), input.nextLine(), input.nextLine()};
